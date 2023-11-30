@@ -12,13 +12,13 @@ Make sure you have node.js installed using ```node -v```. If haven't follow [her
 mkdir scraper
 ```
 ```
-cd Scraping-Engine
+cd scraper
 ```
 ```
 git clone https://github.com/TA-Sultan-Ghaitsa/Scraping-Engine.git
 ```
 ```
-cd scraping
+cd Scraping-Engine
 ```
 ```
 npm i
