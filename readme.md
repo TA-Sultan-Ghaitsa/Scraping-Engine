@@ -43,4 +43,5 @@ user | _the username of the dummy account used for scraping. i.e: user_
 password | _the password of the dummy acoount. i.e: password_
 target_post | _the number of post(s) will be scraped (descending). i.e: 10_
 target_comment | _the number of comment(s) will be scraped per post(descending). i.e: 50_
+
 Next, using Postman hit the API: localhost:3010/api/scraper/{username} (replace username with whatever public instagram username you would want to use). 
