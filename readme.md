@@ -12,7 +12,7 @@ Make sure you have node.js installed using ```node -v```. If haven't follow [her
 mkdir scraper
 ```
 ```
-cd scraper
+cd Scraping-Engine
 ```
 ```
 git clone https://github.com/TA-Sultan-Ghaitsa/Scraping-Engine.git
