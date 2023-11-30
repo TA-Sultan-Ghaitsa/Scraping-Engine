@@ -18,6 +18,9 @@ cd scraper
 git clone https://github.com/TA-Sultan-Ghaitsa/Scraping-Engine.git
 ```
 ```
+cd scraping
+```
+```
 npm i
 ```
 ## Tutorial
