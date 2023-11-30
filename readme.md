@@ -7,36 +7,25 @@ This scraper program was created as a task submitted to Mr. Okky Ibrohim. Me and
 
 NOTE: You will need to provide your own dummy instagram account to do this
 ## Install
-make sure you have node.js installed using ```node -v```. If haven't follow [here](https://nodejs.org/en/download).
+Make sure you have node.js installed using ```node -v```. If haven't follow [here](https://nodejs.org/en/download).
 ```
 mkdir scraper
 ```
-
 ```
 cd scraper
 ```
-
 ```
-git clone https://github.com/TA-Eji-Sadin/Scraping-Engine-Okky.git
-```
-```
-npm init
+git clone https://github.com/TA-Sultan-Ghaitsa/Scraping-Engine.git
 ```
 ```
-npm i playwright
-```
-```
-npm i express
-```
-```
-npm i express body-parser
+npm i
 ```
 ## Tutorial
-run the program using
+Run the program using
 ```
 node server.js
 ```
-you will need Postman for the next steps. First, you will need to set up some headers on the postman.<br>
+You will need Postman for the next steps. First, you will need to set up some headers on the postman.<br>
 Keys | Value
 -- | --
 user | _the username of the dummy account used for scraping. i.e: user_ 
